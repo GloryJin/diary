@@ -16,3 +16,6 @@ clone代码到本地仓库
 然后合并上传
 
 	`git push origin master`
+
+
+在本机git我的日志：
